@@ -483,8 +483,8 @@ background-attachment: fixed;
 }
 .parlex-back {
 padding: 30px 0;
- /*background: radial-gradient(#235d8b,white, #326799);*/
-background-color: rgba(148, 181, 224, 0.4);
+ /*background: radial-gradient(#235d8b,white, #326799);
+background-color: rgba(148, 181, 224, 0.4);*/
 /*color: #FDFDFD !important;*/
 }
 /*Skills*/
