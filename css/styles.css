@@ -476,7 +476,7 @@ margin: 0px;
 /*parlex*/
 .bg-parlex {
 padding-top: 0px;
-/*background-image: url('/images/banner-bg.jpeg');*/
+background-color:#c0d5e6;
 background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
