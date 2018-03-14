@@ -202,11 +202,11 @@
 
 /* Slide in from the right*/
 .da-slide-fromright h2{
-	-webkit-animation: fromRightAnim1 0.6s ease-in-out 0.8s both;
-	-moz-animation: fromRightAnim1 0.6s ease-in-out 0.8s both;
-	-o-animation: fromRightAnim1 0.6s ease-in-out 0.8s both;
-	-ms-animation: fromRightAnim1 0.6s ease-in-out 0.8s both;
-	animation: fromRightAnim1 0.6s ease-in-out 0.8s both;
+	-webkit-animation: fromLeftAnim1 0.6s ease-in-out 0.8s both;
+	-moz-animation: fromLeftAnim1 0.6s ease-in-out 0.8s both;
+	-o-animation: fromLeftAnim1 0.6s ease-in-out 0.8s both;
+	-ms-animation: fromLeftAnim1 0.6s ease-in-out 0.8s both;
+	animation: fromLeftAnim1 0.6s ease-in-out 0.8s both;
 }
 .da-slide-fromright p{
 	-webkit-animation: fromRightAnim2 0.6s ease-in-out 0.8s both;
